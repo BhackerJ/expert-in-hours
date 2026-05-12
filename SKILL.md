@@ -1,5 +1,5 @@
 ---
-name: distill
+name: mental-atlas
 preamble-tier: 1
 version: 1.0.0
 description: |
