@@ -1,5 +1,5 @@
 ---
-name: mental-atlas
+name: expert-in-hours
 preamble-tier: 1
 version: 1.0.0
 description: |

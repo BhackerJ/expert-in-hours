@@ -1,4 +1,4 @@
-# Mental Atlas
+# Expert in Hours
 
 **Map any discipline with mental models — in hours, not months.**
 
@@ -53,7 +53,7 @@ Requires [Claude Code](https://claude.ai/code).
 
 ```bash
 # Clone into your Claude skills directory
-git clone https://github.com/BhackerJ/mental-atlas ~/.claude/skills/mental-atlas
+git clone https://github.com/BhackerJ/expert-in-hours ~/.claude/skills/expert-in-hours
 
 # The skill is auto-detected by Claude Code
 ```
