@@ -53,7 +53,7 @@ Requires [Claude Code](https://claude.ai/code).
 
 ```bash
 # Clone into your Claude skills directory
-git clone https://github.com/Juchonghao/mental-atlas ~/.claude/skills/mental-atlas
+git clone https://github.com/BhackerJ/mental-atlas ~/.claude/skills/mental-atlas
 
 # The skill is auto-detected by Claude Code
 ```
