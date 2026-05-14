@@ -75,7 +75,7 @@ Or copy `SKILL.md` manually into any folder inside `~/.claude/skills/`.
 
 Every `/distill` run produces 6 sections:
 
-1. **材料定位** — One sentence: what is this, and what layer does it operate at?
+1. **Domain Positioning** — One sentence: what is this, and what layer does it operate at?
 2. **Representations** — Key concept table (6–12 terms, definitions, relationships)
 3. **Schemas** — 3–7 named patterns (trigger → implication)
 4. **Mental Models ×5** — The MIT method: 5 core models every expert has internalized, each with mechanism / key variables / feedback loops / failure conditions
